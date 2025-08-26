@@ -13,8 +13,14 @@ main:
     url: /projects/
 
   - title: "Publications"
-    url: /publications/
-
+    sublinks:
+      - title: "Journal Papers"
+        url: /publications/journal-papers/
+      - title: "Conference Papers"
+        url: /publications/conference-papers/
+      - title: "Seminars and Invited Lectures"
+        url: /publications/seminars-lectures/
+      
   - title: "Courses"
     url: /teaching/
 
