@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Academic Year 2025/2026
-***Course:	GEM Models and OpenQuake Tranining*** - [[Syllabus](https://almouayedbellah-nafeh.github.io/files/Courses/PBEE_Course-Syllabus-2026.pdf)] \
+***Course:	GEM Models and OpenQuake Tranining*** - [[Syllabus](https://almouayedbellah-nafeh.github.io/files/Courses/GEM_Models-Course-Syllabus-2026.pdf)] \
 **Role:**	Instructor\
 **Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** IUSS Pavia, Italy
