@@ -50,4 +50,44 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--dropdown {
+    position: relative;
+
+    &:hover .masthead__dropdown {
+      display: block;
+    }
+  }
+}
+
+.masthead__dropdown {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: #fff;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  min-width: 180px;
+  z-index: 100;
+  padding: 0.25em 0;
+  list-style: none;
+  margin: 0;
+
+  li {
+    display: block;
+    white-space: nowrap;
+
+    a {
+      display: block;
+      padding: 0.4em 1em;
+      font-size: 0.85em;
+      color: $text-color;
+
+      &:hover {
+        background: $lighter-gray;
+      }
+    }
+  }
 }

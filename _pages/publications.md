@@ -7,11 +7,15 @@ author_profile: true
 
 ## Journal Publications
 
-1. Caruso, M., Silva, V., Aljawhari, K., **Nafeh, AMB.**, & Galasso, C. (2026). Unveiling the environmental impact of earthquakes in Europe. Nature Communications, 17, 1366. https://doi.org/10.1038/s41467-025-68120-6 [[Link](https://www.nature.com/articles/s41467-025-68120-6)]
+1. Aljawhari, K., **Nafeh, AMB.**, & Silva, V. (2026). A new global vulnerability model for regional seismic risk assessments: Part 1 – structural vulnerability. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-026-02443-7 [[Link](https://link.springer.com/article/10.1007/s10518-026-02443-7)]
 
-2. **Nafeh, AMB.**, & O'Reilly, GJ (2024). Fragility functions for non-ductile infilled reinforced concrete buildings using next-generation intensity measures based on analytical models and empirical data from past earthquakes. Bulletin of Earthquake Engineering, 22, 4983–5021. https://doi.org/10.1007/s10518-024-01955-4 [[Link](https://link.springer.com/article/10.1007/s10518-024-01955-4)]
+2. Caruso, M., Silva, V., Aljawhari, K., **Nafeh, AMB.**, & Galasso, C. (2026). Unveiling the environmental impact of earthquakes in Europe. Nature Communications, 17, 1366. https://doi.org/10.1038/s41467-025-68120-6 [[Link](https://www.nature.com/articles/s41467-025-68120-6)]
 
-3. O'Reilly, GJ, **Nafeh, AMB.**, & Shahnazaryan, D. (2023). Simplified tools for the risk assessment and classification of existing buildings. Procedia Structural Integrity, 44, 1744–1751. https://doi.org/10.1016/j.prostr.2023.01.223 [[PDF](http://mouayed-nafeh.github.io/files/Journal/2023_O'Reilly et al_Simplified tools for the risk assessment and classification of existing buildings.pdf)][[Link](https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub)]
+3. **Nafeh, AMB.**, & O'Reilly, GJ (2024). Fragility functions for non-ductile infilled reinforced concrete buildings using next-generation intensity measures based on analytical models and empirical data from past earthquakes. Bulletin of Earthquake Engineering, 22, 4983–5021. https://doi.org/10.1007/s10518-024-01955-4 [[Link](https://link.springer.com/article/10.1007/s10518-024-01955-4)]
+
+4. **Nafeh, AMB.**, & O'Reilly, GJ (2024). Simplified pushover-based seismic loss assessment for existing infilled frame structures. Bulletin of Earthquake Engineering, 22, 951–995. https://doi.org/10.1007/s10518-023-01792-x [[Link](https://link.springer.com/article/10.1007/s10518-023-01792-x)]
+
+5. O'Reilly, GJ, **Nafeh, AMB.**, & Shahnazaryan, D. (2023). Simplified tools for the risk assessment and classification of existing buildings. Procedia Structural Integrity, 44, 1744–1751. https://doi.org/10.1016/j.prostr.2023.01.223 [[PDF](http://mouayed-nafeh.github.io/files/Journal/2023_O'Reilly et al_Simplified tools for the risk assessment and classification of existing buildings.pdf)][[Link](https://www.sciencedirect.com/science/article/pii/S2212420923001000?via%3Dihub)]
 
 4. **Nafeh, AMB.**, & O'Reilly, GJ (2023). Simplified pushover-based seismic risk assessment methodology for existing infilled frame structures. Bulletin of Earthquake Engineering. https://doi.org/10.1007/s10518-022-01600-y [[PDF](http://mouayed-nafeh.github.io/files/Journal/2022_Nafeh, O'Reilly_Simplified pushover-based seismic risk assessment methdology for existing infilled frame structures.pdf)][[Link](https://link.springer.com/article/10.1007/s10518-022-01600-y)]
 
