@@ -15,17 +15,19 @@
             {% endif %}
             {% if link.sublinks %}
               <li class="masthead__menu-item masthead__menu-item--dropdown">
-                <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
-                <ul class="masthead__dropdown">
-                  {% for sublink in link.sublinks %}
-                    {% if sublink.url contains 'http' %}
-                      {% assign subdomain = '' %}
-                    {% else %}
-                      {% assign subdomain = base_path %}
-                    {% endif %}
-                    <li><a href="{{ subdomain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
-                  {% endfor %}
-                </ul>
+                <span class="masthead__dropdown-anchor">
+                  <a href="{{ domain }}{{ link.url }}">{{ link.title }}</a>
+                  <ul class="masthead__dropdown">
+                    {% for sublink in link.sublinks %}
+                      {% if sublink.url contains 'http' %}
+                        {% assign subdomain = '' %}
+                      {% else %}
+                        {% assign subdomain = base_path %}
+                      {% endif %}
+                      <li><a href="{{ subdomain }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </span>
               </li>
             {% else %}
               <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>

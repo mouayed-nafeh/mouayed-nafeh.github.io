@@ -50,13 +50,17 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
 
-  &--dropdown {
-    position: relative;
+// The span inside the dropdown li is the positioning anchor.
+// Using display:inline-block + position:relative here (not on the table-cell li)
+// avoids conflicts with .visible-links li { display: table-cell } from _navigation.scss.
+.masthead__dropdown-anchor {
+  position: relative;
+  display: inline-block;
 
-    &:hover .masthead__dropdown {
-      display: block;
-    }
+  &:hover .masthead__dropdown {
+    display: block;
   }
 }
 
@@ -68,26 +72,28 @@
   background: #fff;
   border: 1px solid $border-color;
   border-radius: 4px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   min-width: 180px;
   z-index: 100;
   padding: 0.25em 0;
   list-style: none;
   margin: 0;
 
+  // !important ensures this wins over .visible-links li { display: table-cell }
+  // in _navigation.scss which is imported after this file.
   li {
-    display: block;
+    display: block !important;
     white-space: nowrap;
+  }
 
-    a {
-      display: block;
-      padding: 0.4em 1em;
-      font-size: 0.85em;
-      color: $text-color;
+  a {
+    display: block !important;
+    margin: 0;
+    padding: 0.4em 1em;
+    font-size: 0.85em;
 
-      &:hover {
-        background: $lighter-gray;
-      }
+    &:hover {
+      background: $lighter-gray;
     }
   }
 }

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 ## Education
-* Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), Present
+* Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it) (Cum Laude), 2023
 * M.Sc. in Earthquake Engineering and Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/en), 2017
 * B.Sc. in Civil and Environmental Engineering, [University of Balamand, Lebanon](https://www.balamand.edu.lb/home/Pages/default.aspx), 2015
 
