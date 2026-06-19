@@ -86,15 +86,23 @@
     white-space: nowrap;
   }
 
-  a {
+  a,
+  a.current,
+  a:visited,
+  a:focus {
     display: block !important;
-    margin: 0;
-    padding: 0.4em 1em;
+    margin: 0 !important;
+    padding: 0.4em 1em !important;
     font-size: 0.85em;
     font-weight: normal !important;
+    border: none !important;
+    border-bottom: none !important;
+    text-decoration: none !important;
 
-    &:before {
+    &:before,
+    &:after {
       display: none !important;
+      content: none !important;
     }
 
     &:hover {
