@@ -6,19 +6,18 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
-    url: /research/
-
   - title: "Projects"
     url: /projects/
 
-  - title: "Publications"
+  - title: "Resources"
     url: /publications/
     sublinks:
-      - title: "Journal Papers"
+      - title: "Journal Articles"
         url: /publications/
-      - title: "Conference Papers"
+      - title: "Conference Proceedings"
         url: /publications/conference-papers/
+      - title: "Tools and Datasets"
+        url: /tools/
       
   - title: "Courses"
     url: /teaching/
