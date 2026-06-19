@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Al Mouayed Bellah Nafeh"
 title_separator          : "-"
 name                     : &name "Al Mouayed Bellah Nafeh"
-description              : &description "Physical Vulnerability Lead at GEM Foundation"
+description              : &description "Physical Vulnerability Lead @ Global Earthquake Model (GEM) Foundation"
 url                      : https://mouayed-nafeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mouayed-nafeh/mouayed-nafeh.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Al Mouayed Bellah Nafeh"
   avatar           : "NAFEH_CV_PP_cropped.jpg"
-  bio              : "Doctoral Student at the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre) @ IUSS Pavia, Italy"
+  bio              : "Physical Vulnerability Lead @ Global Earthquake Model (GEM) Foundation"
   location         : "Pavia, Italy"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=4KIX2BwAAAAJ&hl=en&authuser=1"
-  email            : "mouayed.nafeh@iusspavia.it"
+  email            : "mouayed.nafeh@globalquakemodel.org"
   researchgate     :  "https://www.researchgate.net/profile/Al-Mouayed-Bellah-Nafeh"
   uri              :
   bitbucket        :
