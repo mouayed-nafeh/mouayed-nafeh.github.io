@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Al Mouayed Bellah Nafeh"
 title_separator          : "-"
 name                     : &name "Al Mouayed Bellah Nafeh"
-description              : &description "Doctoral Candidate in Understanding and Managing Extremes"
-url                      : https://almouayedbellah-nafeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Physical Vulnerability Lead at GEM Foundation"
+url                      : https://mouayednafeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "almouayedbellah-nafeh/almouayedbellah-nafeh.github.io"
+repository               : "mouayed-nafeh/mouayednafeh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "almouayedbellah-nafeh"
+  github           : "mouayed-nafeh"
   google_plus      :
   keybase          :
   instagram        :
