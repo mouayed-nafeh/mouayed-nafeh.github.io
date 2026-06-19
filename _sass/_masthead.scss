@@ -91,6 +91,11 @@
     margin: 0;
     padding: 0.4em 1em;
     font-size: 0.85em;
+    font-weight: normal !important;
+
+    &:before {
+      display: none !important;
+    }
 
     &:hover {
       background: $lighter-gray;
