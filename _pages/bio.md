@@ -17,4 +17,8 @@ In 2023, he was awarded a Ph.D. with distinction (cum laude) in Earthquake Engin
 
 Currently, he is the Physical Vulnerability Lead at the [Global Earthquake Model Foundation](https://www.globalquakemodel.org/gem-team/mouayed-nafeh), where he leads efforts to assess regional seismic vulnerability and support risk transfer strategies. He is the primary developer of the OpenQuake Vulnerability Modeller's Toolkit and the Global Seismic Vulnerability Model, maintained by the GEM Foundation.
 
-His primary research interests centre on the seismic vulnerability modelling and assessment of regional building portfolios, spanning response to mainshock only as well as damage accumulation under earthquake sequences and empirical validation of models that support both economic and human-centric loss estimation bridging applications in academia, industry, and disaster risk reduction. 
+His primary research interests centre on the seismic vulnerability modelling and assessment of regional building portfolios, spanning response to mainshock only as well as damage accumulation under earthquake sequences and empirical validation of models that support both economic and human-centric loss estimation bridging applications in academia, industry, and disaster risk reduction.
+
+## News
+
+**June 2026:** The GEM Conference 2026 brought together researchers, practitioners and partners of the Global Earthquake Model (GEM) Foundation to share the latest advances in global earthquake hazard and risk modelling. Al Mouayed Bellah Nafeh, Physical Vulnerability Lead at the GEM Foundation, presented the release of the v2026.0.0 Global Seismic Vulnerability Model. [[YouTube](https://www.youtube.com/watch?v=seHuyApKLpc&t=2s)]
