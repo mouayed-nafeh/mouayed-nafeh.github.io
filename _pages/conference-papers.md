@@ -15,7 +15,7 @@ author_profile: true
 
 4. Narlitepe, F., **Nafeh, AMB.**, Aljawhari, K., Silva, V. (2026) Towards a state-dependent fragility and vulnerability model database for earthquake sequence risk assessment. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany.
 
-5. Anirudh, R., Borozan, J., **Nafeh, AMB.**, Yepes-Estrada, C., Silva, V. (2026) Benchmarking GEM's global seismic risk model through historical scenarios. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany.
+5. Anirudh, R., Borozan, J., **Nafeh, AMB.**, Yepes-Estrada, C., Silva, V. (2026) Benchmarking GEM's global seismic risk model through historical scenarios. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany. [[PDF](http://mouayed-nafeh.github.io/files/Conference/2026_Rao_etal_Benchmarking GEM 2026 global seismic risk model through historical scenarios.pdf)][[Presentation](http://mouayed-nafeh.github.io/files/Presentations/ECEE26_2026_Rao_etal_Benchmarking GEM 2026 global seismic risk model through historical scenarios.pdf)]
 
 6. Taherian, A., Silva, V., **Nafeh, AMB.**, O’Reilly, GJ. (2026) On the digital twins for post-earthquake loss assessment of building portfolios. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany.
 
