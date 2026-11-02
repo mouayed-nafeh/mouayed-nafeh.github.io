@@ -15,7 +15,7 @@ In 2017, he graduated from the European Commission’s Erasmus Mundus [MEEES](ht
 
 In 2023, he was awarded a Ph.D. with distinction (cum laude) in Earthquake Engineering from IUSS Pavia. His doctoral research addressed advancements in risk- and loss-based methodologies for large-scale assessment of non-ductile infilled reinforced concrete buildings.
 
-Currently, he is the Physical Vulnerability Lead at the [Global Earthquake Model Foundation](https://www.globalquakemodel.org/gem-team/mouayed-nafeh), where he leads efforts to assess regional seismic vulnerability and support risk transfer strategies. He is the primary developer of the OpenQuake Vulnerability Modeller's Toolkit and the Global Seismic Vulnerability Model, maintained by the GEM Foundation.
+Currently, he is the Physical Vulnerability Lead at the [Global Earthquake Model Foundation](https://www.globalquakemodel.org/gem-team/mouayed-nafeh), where he leads efforts to assess regional seismic vulnerability and support risk transfer strategies. He is the primary developer of the OpenQuake Vulnerability Modeller's Toolkit and the [Global Seismic Vulnerability Model](https://docs.openquake.org/vulnerability/), maintained by the GEM Foundation.
 
 His primary research interests centre on the seismic vulnerability modelling and assessment of regional building portfolios, spanning response to mainshock only as well as damage accumulation under earthquake sequences and empirical validation of models that support both economic and human-centric loss estimation bridging applications in academia, industry, and disaster risk reduction.
 
