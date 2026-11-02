@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-[Al Mouayed Bellah Nafeh](https://www.linkedin.com/in/al-mouayed-bellah-nafeh/) (b. 1993) earned his B.Sc. in Civil and Environmental Engineering from the University of Balamand, Lebanon (2015), where he completed a thesis on finite element analysis of structural steel elements. He then gained early professional experience on infrastructure and high-rise residential projects in Lebanon.
+[Al Mouayed Bellah Nafeh](https://www.linkedin.com/in/al-mouayed-bellah-nafeh/) earned his B.Sc. in Civil and Environmental Engineering from the University of Balamand, Lebanon (2015), where he completed a thesis on finite element analysis of structural steel elements. He then gained early professional experience on infrastructure and high-rise residential projects in Lebanon.
 
 In 2017, he graduated from the European Commission’s Erasmus Mundus [MEEES](https://www.preventionweb.net/resource/erasmus-master-earthquake-engineering-and/or-engineering-seismology-meees) programme with an M.Sc. in Earthquake Engineering and Engineering Seismology, following studies at Université Grenoble-Alpes (France) and Istituto Universitario di Studi Superiori IUSS Pavia (Italy). He subsequently pursued a two-year research fellowship at Università degli Studi di Pavia and IUSS Pavia, funded by [ReLuis](https://www.reluis.it/en/) and [ITERATE](https://civil-protection-humanitarian-aid.ec.europa.eu/funding-evaluations/financing-civil-protection/prevention-and-preparedness-projects-civil-protection/overview-past-track-i-and-track-ii-projects/improved-tools-disaster-risk-mitigation-algeria-iterate_en) consortia.
 
