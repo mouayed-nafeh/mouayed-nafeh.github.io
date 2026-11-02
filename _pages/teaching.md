@@ -20,7 +20,6 @@ author_profile: true
 ## Academic Year 2023/2024
 ***Course:	GEM-EGU Summer School on GeoHazards Risk*** - [[Flyer](https://mouayed-nafeh.github.io/files/Courses/GEM-EGU-summer-school-flyer.pdf)] [[Photo](https://mouayed-nafeh.github.io/files/Photos/gem-egu-2024.jpg)]\
 **Role:**	Instructor\
-**Programme:** Doctoral Programme Course in Understanding and Managing Extremes\
 **Institute:** Universidade de Aveiro, Portugal
 
 ## Academic Year 2022/2023
