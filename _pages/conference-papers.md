@@ -61,11 +61,13 @@ author_profile: true
 
 ## Organized Special Sessions
 
-1. Organized and co-chaired special session on "Advancing Vulnerability Modelling for Regional Risk Assessment" for the 18th European Conference on Earthquake Engineering (18ECEE) held in Berlin, Germancy (2026). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/ecee-flyer-2026.pdf)]
+1. Organized and co-chaired minisymposium "Advancing Seismic Fragility and Vulnerability Modelling for Regional Risk Applications: Development, Validation, and Tools" (MS-53-COF) for the 11th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2027) held in Hersonissos, Crete, Greece (2027). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/compdyn-flyer-2027.pdf)]
 
-2. Organized and co-chaired special session on "Recent Advances in Vulnerability Modelling for the Built-Environment" for the 14th International Conference on Structural Safety and Reliability (ICOSSAR25) held in Los Angeles, USA (2025). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/icossar-flyer-2025.pdf)]
+2. Organized and co-chaired special session on "Advancing Vulnerability Modelling for Regional Risk Assessment" for the 18th European Conference on Earthquake Engineering (18ECEE) held in Berlin, Germancy (2026). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/ecee-flyer-2026.pdf)]
 
-3. Co-chaired special session on "The International Macroseismic Scale of 2024 (IMS-2024) and Related Research and Development" for the 39th European Seismological Commission General Assembly (ESC) held in Corfu, Greece (2024). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/esc-flyer-2024.pdf)]
+3. Organized and co-chaired special session on "Recent Advances in Vulnerability Modelling for the Built-Environment" for the 14th International Conference on Structural Safety and Reliability (ICOSSAR25) held in Los Angeles, USA (2025). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/icossar-flyer-2025.pdf)]
+
+4. Co-chaired special session on "The International Macroseismic Scale of 2024 (IMS-2024) and Related Research and Development" for the 39th European Seismological Commission General Assembly (ESC) held in Corfu, Greece (2024). [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/esc-flyer-2024.pdf)]
 
 ## Seminars
 
