@@ -23,4 +23,12 @@ His primary research interests centre on the seismic vulnerability modelling and
 
 **November 2026:** Call for abstracts! Al Mouayed Bellah Nafeh, Karim Aljawhari and Furkan Narlitepe are organizing the minisymposium "Advancing Seismic Fragility and Vulnerability Modelling for Regional Risk Applications: Development, Validation, and Tools" (MS-53-COF) at COMPDYN 2027, the 11th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (13–16 June 2027, Hersonissos, Crete, Greece). The session explores the development, validation and application of seismic fragility, vulnerability and consequence models, from analytical, empirical and hybrid methods to post-earthquake validation and open-source tools. Researchers and practitioners are invited to submit their abstracts under session code **MS-53-COF**; abstract submission is open until **November 30th**. [[Flyer](https://mouayed-nafeh.github.io/files/Special_Sessions/compdyn-flyer-2027.pdf)]
 
+**September 2026:** The GEM Team, represented by Al Mouayed Bellah Nafeh (Physical Vulnerability Lead), Anirudh Rao (Seismic Risk Lead) and Marco Baiguera (Exposure Analyst), visited the CERN facilities in Meyrin, Switzerland, for a two-week workshop on exposure, vulnerability and earthquake risk applications using the OpenQuake Engine. Many thanks to the CERN Team for the great welcome!
+
+<p>
+<img src="/images/news/cern-2026-workshop.jpg" alt="GEM team working at the CERN workshop" style="width:32%">
+<img src="/images/news/cern-2026-detector.jpg" alt="GEM team visiting a CERN detector" style="width:32%">
+<img src="/images/news/cern-2026-gem.jpg" alt="GEM sign at CERN" style="width:32%">
+</p>
+
 **June 2026:** The GEM Conference 2026 brought together researchers, practitioners and partners of the Global Earthquake Model (GEM) Foundation to share the latest advances in global earthquake hazard and risk modelling. Al Mouayed Bellah Nafeh, Physical Vulnerability Lead at the GEM Foundation, presented the release of the v2026.0.0 Global Seismic Vulnerability Model. [[YouTube](https://www.youtube.com/watch?v=seHuyApKLpc&t=2s)]
