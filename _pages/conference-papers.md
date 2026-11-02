@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Proceedings
 
-1. **Nafeh, AMB.**, Aljawhari, K., Silva, V. (2026) A comprehensive new global vulnerability model for improved earthquake loss modelling. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany.
+1. **Nafeh, AMB.**, Aljawhari, K., Silva, V. (2026) A comprehensive new global vulnerability model for improved earthquake loss modelling. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany. [[PDF](http://mouayed-nafeh.github.io/files/Conference/2026_Nafeh_etal_A comprehensive global vulnerability model for improved earthquake loss modelling.pdf)][[Presentation](http://mouayed-nafeh.github.io/files/Presentations/ECEE26_2026_Nafeh_etal_A comprehensive global vulnerability model for improved earthquake loss modelling.pdf)]
 
 2. Aljawhari, K., Caruso, M., **Nafeh, AMB.**, Silva, V. (2026) A new database of seismic vulnerability functions for carbon emissions in Europe. ECEE26 - 18th European Conference on Earthquake Engineering, Berlin, Germany.
 
